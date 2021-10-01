@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Generated image
+*.iso
+
+# Log files
+*.log
